@@ -24,3 +24,4 @@ SLM (통계 언어 모델)
 파이토치
 합성곱 신경망(CNN)
 파인튜닝 (Fine‑tuning)
+배치 (Batch)
