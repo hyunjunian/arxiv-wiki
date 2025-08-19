@@ -27,4 +27,3 @@ SLM (통계 언어 모델)
 합성곱 신경망(CNN)
 Gemini (AI)
 Qwen (千问) – Alibaba AI 대형 언어 모델
-멀티모달 AI란?
