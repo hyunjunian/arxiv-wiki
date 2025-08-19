@@ -11,6 +11,7 @@ SLM (통계 언어 모델)
 딥블루 (IBM Deep Blue)
 뮤제로(MuZero)
 미니배치
+배치 (Batch)
 소버린AI
 손실함수
 순환 신경망(RNN)
@@ -19,9 +20,8 @@ SLM (통계 언어 모델)
 오픈AI
 이세돌
 인공지능
+전이학습 (Transfer Learning)
 제프리 힌튼
 트랜스포머
 파이토치
 합성곱 신경망(CNN)
-파인튜닝 (Fine‑tuning)
-배치 (Batch)
