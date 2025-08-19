@@ -32,3 +32,4 @@ Data Protection Officer (DPO) in Artificial Intelligence
 Grok (인공지능)
 x.ai
 Diffusion Models in Artificial Intelligence
+NeurIPS (Neural Information Processing Systems)
