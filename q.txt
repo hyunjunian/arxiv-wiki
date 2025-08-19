@@ -3,10 +3,12 @@ EXAONE
 GPU
 Keras
 PPO
+SLM (통계 언어 모델)
 강화 학습
 거대언어모델(LLM)
 경사하강법
 딥마인드
+딥블루 (IBM Deep Blue)
 뮤제로(MuZero)
 미니배치
 소버린AI
@@ -15,8 +17,9 @@ PPO
 알파고
 어텐션
 오픈AI
+이세돌
 인공지능
+제프리 힌튼
 트랜스포머
 파이토치
 합성곱 신경망(CNN)
-배치 (Batch)
