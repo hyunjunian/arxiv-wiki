@@ -12,14 +12,14 @@
 
 ## 수식 표현
 
-\[
+$$
 \begin{aligned}
 h_t &= \sigma\!\bigl(W_{ih}x_t + W_{hh}h_{t-1} + b_h\bigr) \\
 y_t &= \phi\!\bigl(W_{ho}h_t + b_o\bigr)
 \end{aligned}
-\]
+$$
 
-- $\sigma$ : 비선형 활성화 함수 (예: tanh, ReLU)  
+- $\sigma$ : 비선형 활성화 함수 (예: tanh, ReLU) \(a \ne 0\)
 - $\phi$ : 출력 층 활성화 (예: softmax)  
 
 ## 시간 전개(Unfolding)
